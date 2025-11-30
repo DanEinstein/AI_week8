@@ -90,7 +90,7 @@ Current mitigation strategies include vector + graph databases, hierarchical mem
 
 ---
 
-**Author:** [Your Name]
+**Author:** [Danson Githuka]
 **Date:** November 30, 2025
 **Word count per answer:** 192–198 words
 **License:** MIT

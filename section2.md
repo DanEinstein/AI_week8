@@ -53,16 +53,13 @@ An internal AI Ethics & Safety Board will meet monthly during rollout and quarte
 
 ## 4. Simulation on make.com
 
-Workflow simulation (to be added by you) demonstrating end-to-end agent orchestration:
-→ IoT sensor trigger → Predictive Maintenance Agent → Quality Inspector Agent (if needed) → Customization Orchestrator → ERP update + human approval gate.
+Here is the make.com workflow:
 
-**Simulation Link (make.com)**:
-[Will be inserted here by you after creation]
-
-Once you share the make.com scenario link or exported JSON, I will update this section and the repo accordingly.
+[https://eu1.make.com/public/shared-scenario/q0rH5mcnwMl/simple-version]
 
 ---
 
-**Author:** [Your Name]
+**Author:** [Danson Githuka]
 **Word Count:** 678
-Ready for GitHub — just paste your make.com link when ready!
+
+
